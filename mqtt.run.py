@@ -11,4 +11,4 @@ if __name__ == '__main__':
     mqtt = mqtt_lib.MQTT_Module(host_ip)
     mqtt.subscribe(1,0)
 
-### Ex. python3 mqtt.run.py 169.254.254.34 1 d504e0268ed6ca42
+### Ex. python3 mqtt.run.py 
