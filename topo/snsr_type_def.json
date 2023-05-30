@@ -1,0 +1,23 @@
+{
+"67": {
+	  "name": "T",
+      "resolution" : 0.01,
+      "length": 2,
+      "unit": ""
+	},
+
+"C0": {
+	  "name": "Conductivity",
+      "resolution" : 0.001,
+      "length": 4,
+      "unit": ""
+      },
+
+"0B": {
+	  "name": "PH",
+      "resolution" : 0.01,
+      "length": 2,
+      "unit": ""
+	}
+}
+

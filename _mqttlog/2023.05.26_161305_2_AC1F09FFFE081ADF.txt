@@ -1,0 +1,30 @@
+
+[Fri May 26 16:13:05 2023]  Subscribe 172.17.35.9 "#" for forever sec
+
+[Fri May 26 16:13:07 2023]  
+  {'deviceName': 'PH-1', 'timestamp': 1685088787, 'data': '0C02C10000', 'fCnt': 90, 'rssi': -78, 'loRaSNR': 11.0, 'dr': 0, 'fPort': 66}
+devid:12  C1_DI: 0
+
+[Fri May 26 16:13:07 2023]  
+  {'deviceName': 'Auqa-2', 'timestamp': 1685088787, 'data': '0D003D1302013E0979023F00C203400526', 'fCnt': 47415, 'rssi': -70, 'loRaSNR': 13.0, 'dr': 1, 'fPort': 13}
+devid:13  13_AIC: 3.18,	79_AIC: 161.28,	C2_AIV: 163.89
+
+[Fri May 26 16:13:08 2023]  
+  {'deviceName': 'conductivity-1', 'timestamp': 1685088788, 'data': '0B01C00000018002670000', 'fCnt': 423, 'rssi': -82, 'loRaSNR': 12.8, 'dr': 1, 'fPort': 66}
+devid:11  C0_DI: 0,	80_AIC: 263.68
+
+[Fri May 26 16:13:09 2023]  
+  {'deviceName': 'Temperature-2', 'timestamp': 1685088789, 'data': '170167012B026701EF036701EA', 'fCnt': 60, 'rssi': -74, 'loRaSNR': 12.8, 'dr': 1, 'fPort': 66}
+devid:23  01_Temp: 29.9,	02_Temp: 49.5,	03_Temp: 49.0
+
+[Fri May 26 16:13:09 2023]  
+  {'deviceName': 'Conductivity-2', 'timestamp': 1685088789, 'data': '1601C000000000026709EC', 'fCnt': 237, 'rssi': -72, 'loRaSNR': 10.5, 'dr': 1, 'fPort': 66}
+devid:22  C0_DI: 0,	00_DI: 2
+
+[Fri May 26 16:13:09 2023]  
+  {'deviceName': 'Temperature-1', 'timestamp': 1685088789, 'data': '0D0167012B026701FE036701ED', 'fCnt': 220, 'rssi': -60, 'loRaSNR': 8.0, 'dr': 1, 'fPort': 66}
+devid:13  01_Temp: 29.9,	02_Temp: 51.0,	03_Temp: 49.3
+
+[Fri May 26 16:13:11 2023]  
+  {'deviceName': 'PH-2', 'timestamp': 1685088791, 'data': '1602C10000', 'fCnt': 215, 'rssi': -71, 'loRaSNR': 11.3, 'dr': 1, 'fPort': 66}
+devid:22  C1_DI: 0

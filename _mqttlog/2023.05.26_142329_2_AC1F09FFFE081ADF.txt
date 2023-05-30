@@ -1,0 +1,2 @@
+
+[Fri May 26 14:23:29 2023]  Subscribe 192.168.230.1 "#" for forever sec

@@ -1,0 +1,38 @@
+{
+    "adr": false, 
+    "applicationID": "2", 
+    "applicationName": "J&T Flex", 
+    "data": "0D01670127026701FB036701F0", 
+    "data_encode": "hexstring", 
+    "devEUI": "ac1f09fffe081adf", 
+    "deviceName": "Temperature-1", 
+    "dr": 1, 
+    "fCnt": 1629, 
+    "fPort": 66, 
+    "frequency": 905300000, 
+    "gatewayID": "ac1f09fffe051a6d", 
+    "loRaSNR": 13.5, 
+    "location": {
+        "altitude": 0, 
+        "latitude": 0.0, 
+        "longitude": 0.0
+    }, 
+    "rssi": -68, 
+    "rxInfo": [
+        {
+            "gatewayID": "ac1f09fffe051a6d", 
+            "loRaSNR": 13.5, 
+            "location": {
+                "altitude": 0, 
+                "latitude": 0.0, 
+                "longitude": 0.0
+            }, 
+            "rssi": -68
+        }
+    ], 
+    "timestamp": 1682902112, 
+    "txInfo": {
+        "dr": 1, 
+        "frequency": 905300000
+    }
+}

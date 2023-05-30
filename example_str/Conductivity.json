@@ -1,0 +1,38 @@
+{
+    "adr": false, 
+    "applicationID": "2", 
+    "applicationName": "J&T Flex", 
+    "data": "0B01C0000001A4026700E3", 
+    "data_encode": "hexstring", 
+    "devEUI": "ac1f09fffe03f178", 
+    "deviceName": "Conductivity-1", 
+    "dr": 1, 
+    "fCnt": 35174, 
+    "fPort": 66, 
+    "frequency": 905100000, 
+    "gatewayID": "ac1f09fffe051a6d", 
+    "loRaSNR": 12.5, 
+    "location": {
+        "altitude": 0, 
+        "latitude": 0.0, 
+        "longitude": 0.0
+    }, 
+    "rssi": -74, 
+    "rxInfo": [
+        {
+            "gatewayID": "ac1f09fffe051a6d", 
+            "loRaSNR": 12.5, 
+            "location": {
+                "altitude": 0, 
+                "latitude": 0.0, 
+                "longitude": 0.0
+            }, 
+            "rssi": -74
+        }
+    ], 
+    "timestamp": 1682902114, 
+    "txInfo": {
+        "dr": 1, 
+        "frequency": 905100000
+    }
+}

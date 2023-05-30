@@ -1,0 +1,38 @@
+{
+    "adr": false, 
+    "applicationID": "2", 
+    "applicationName": "J&T Flex", 
+    "data": "16010B04C9", 
+    "data_encode": "hexstring", 
+    "devEUI": "ac1f09fffe03b7be", 
+    "deviceName": "PH-2", 
+    "dr": 1, 
+    "fCnt": 3210, 
+    "fPort": 66, 
+    "frequency": 905300000, 
+    "gatewayID": "ac1f09fffe051a6d", 
+    "loRaSNR": 7.5, 
+    "location": {
+        "altitude": 0, 
+        "latitude": 0.0, 
+        "longitude": 0.0
+    }, 
+    "rssi": -64, 
+    "rxInfo": [
+        {
+            "gatewayID": "ac1f09fffe051a6d", 
+            "loRaSNR": 7.5, 
+            "location": {
+                "altitude": 0, 
+                "latitude": 0.0, 
+                "longitude": 0.0
+            }, 
+            "rssi": -64
+        }
+    ], 
+    "timestamp": 1682902111, 
+    "txInfo": {
+        "dr": 1, 
+        "frequency": 905300000
+    }
+}

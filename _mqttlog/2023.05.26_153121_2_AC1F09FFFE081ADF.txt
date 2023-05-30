@@ -1,0 +1,386 @@
+
+[Fri May 26 15:31:21 2023]  Subscribe 172.17.35.9 "#" for forever sec
+
+[Fri May 26 15:31:22 2023]  
+  {'deviceName': 'Auqa-2', 'timestamp': 1685086282, 'data': '0D003D132E013E093C023F00C703400523', 'fCnt': 46914, 'rssi': -80, 'loRaSNR': 12.3, 'dr': 1, 'fPort': 13}
+devid:13  2E_DO: 62,	3C_AIC: 161.28,	C7_AIV: 163.89
+
+[Fri May 26 15:31:22 2023]  
+  {'deviceName': 'PH-2', 'timestamp': 1685086282, 'data': '16', 'fCnt': 738, 'rssi': -71, 'loRaSNR': 11.3, 'dr': 1, 'fPort': 66}
+devid:22  
+
+[Fri May 26 15:31:22 2023]  
+  {'deviceName': 'Temperature-2', 'timestamp': 1685086282, 'data': '170100012C02FF01F503FF01F0', 'fCnt': 88, 'rssi': -71, 'loRaSNR': 12.5, 'dr': 1, 'fPort': 66}
+devid:23  01_DI: 1,	2C_AIC: -2.55,	F5_AIV: -2.55
+
+[Fri May 26 15:31:24 2023]  
+  {'deviceName': 'conductivity-1', 'timestamp': 1685086284, 'data': '0B01C0000001FE02670000', 'fCnt': 541, 'rssi': -80, 'loRaSNR': 13.3, 'dr': 1, 'fPort': 66}
+devid:11  C0_DI: 0,	FE_AIC: 263.68
+
+[Fri May 26 15:31:25 2023]  
+  {'deviceName': 'Temperature-1', 'timestamp': 1685086285, 'data': '0D0167012A026701EE036701E6', 'fCnt': 8, 'rssi': -60, 'loRaSNR': 12.5, 'dr': 1, 'fPort': 66}
+devid:13  01_Temp: 29.8,	02_Temp: 49.4,	03_Temp: 48.6
+
+[Fri May 26 15:31:25 2023]  
+  {'deviceName': 'PH-1', 'timestamp': 1685086285, 'data': '15', 'fCnt': 550, 'rssi': -64, 'loRaSNR': 11.3, 'dr': 0, 'fPort': 66}
+devid:21  
+
+[Fri May 26 15:31:27 2023]  
+  {'deviceName': 'Auqa-2', 'timestamp': 1685086287, 'data': '0D003D1335013E095B023F00C703400527', 'fCnt': 46915, 'rssi': -77, 'loRaSNR': 12.5, 'dr': 1, 'fPort': 13}
+devid:13  35_DO: 62,	5B_AIC: 161.28,	C7_AIV: 163.89
+
+[Fri May 26 15:31:27 2023]  
+  {'deviceName': 'PH-2', 'timestamp': 1685086287, 'data': '16', 'fCnt': 739, 'rssi': -66, 'loRaSNR': 12.5, 'dr': 1, 'fPort': 66}
+devid:22  
+
+[Fri May 26 15:31:27 2023]  
+  {'deviceName': 'Temperature-2', 'timestamp': 1685086287, 'data': '170100012B02FF01F503FF01F0', 'fCnt': 89, 'rssi': -70, 'loRaSNR': 12.8, 'dr': 1, 'fPort': 66}
+devid:23  01_DI: 1,	2B_AIC: -2.55,	F5_AIV: -2.55
+
+[Fri May 26 15:31:29 2023]  
+  {'deviceName': 'conductivity-1', 'timestamp': 1685086289, 'data': '0B01C0000001FE02670000', 'fCnt': 542, 'rssi': -80, 'loRaSNR': 13.3, 'dr': 1, 'fPort': 66}
+devid:11  C0_DI: 0,	FE_AIC: 263.68
+
+[Fri May 26 15:31:30 2023]  
+  {'deviceName': 'Conductivity-2', 'timestamp': 1685086290, 'data': '1601C000000000026709E2', 'fCnt': 319, 'rssi': -80, 'loRaSNR': 11.3, 'dr': 1, 'fPort': 66}
+devid:22  C0_DI: 0,	00_DI: 2
+
+[Fri May 26 15:31:30 2023]  
+  {'deviceName': 'Temperature-1', 'timestamp': 1685086290, 'data': '0D0167012A026701EE036701E6', 'fCnt': 9, 'rssi': -60, 'loRaSNR': 8.8, 'dr': 1, 'fPort': 66}
+devid:13  01_Temp: 29.8,	02_Temp: 49.4,	03_Temp: 48.6
+
+[Fri May 26 15:31:30 2023]  
+  {'deviceName': 'PH-1', 'timestamp': 1685086290, 'data': '15', 'fCnt': 551, 'rssi': -63, 'loRaSNR': 11.8, 'dr': 0, 'fPort': 66}
+devid:21  
+
+[Fri May 26 15:31:32 2023]  
+  {'deviceName': 'Auqa-2', 'timestamp': 1685086292, 'data': '0D003D1344013E093C023F00C603400523', 'fCnt': 46916, 'rssi': -80, 'loRaSNR': 12.5, 'dr': 1, 'fPort': 13}
+devid:13  44_DO: 62,	3C_AIC: 161.28,	C6_AIV: 163.89
+
+[Fri May 26 15:31:32 2023]  
+  {'deviceName': 'PH-2', 'timestamp': 1685086292, 'data': '16', 'fCnt': 740, 'rssi': -66, 'loRaSNR': 8.3, 'dr': 1, 'fPort': 66}
+devid:22  
+
+[Fri May 26 15:31:32 2023]  
+  {'deviceName': 'Temperature-2', 'timestamp': 1685086292, 'data': '170100012B02FF01F503FF01F0', 'fCnt': 90, 'rssi': -69, 'loRaSNR': 12.5, 'dr': 1, 'fPort': 66}
+devid:23  01_DI: 1,	2B_AIC: -2.55,	F5_AIV: -2.55
+
+[Fri May 26 15:31:34 2023]  
+  {'deviceName': 'conductivity-1', 'timestamp': 1685086294, 'data': '0B01C00000024702670000', 'fCnt': 543, 'rssi': -80, 'loRaSNR': 12.5, 'dr': 1, 'fPort': 66}
+devid:11  C0_DI: 0,	47_AIC: 263.68
+
+[Fri May 26 15:31:35 2023]  
+  {'deviceName': 'Temperature-1', 'timestamp': 1685086295, 'data': '0D0167012A026701EE036701E6', 'fCnt': 10, 'rssi': -60, 'loRaSNR': 12.3, 'dr': 1, 'fPort': 66}
+devid:13  01_Temp: 29.8,	02_Temp: 49.4,	03_Temp: 48.6
+
+[Fri May 26 15:31:35 2023]  
+  {'deviceName': 'PH-1', 'timestamp': 1685086295, 'data': '15', 'fCnt': 552, 'rssi': -60, 'loRaSNR': 12.0, 'dr': 0, 'fPort': 66}
+devid:21  
+
+[Fri May 26 15:31:37 2023]  
+  {'deviceName': 'Auqa-2', 'timestamp': 1685086297, 'data': '0D003D133C013E0940023F00C603400525', 'fCnt': 46917, 'rssi': -84, 'loRaSNR': 13.0, 'dr': 1, 'fPort': 13}
+devid:13  3C_DO: 62,	40_AIC: 161.28,	C6_AIV: 163.89
+
+[Fri May 26 15:31:37 2023]  
+  {'deviceName': 'PH-2', 'timestamp': 1685086297, 'data': '16', 'fCnt': 741, 'rssi': -62, 'loRaSNR': 11.8, 'dr': 1, 'fPort': 66}
+devid:22  
+
+[Fri May 26 15:31:37 2023]  
+  {'deviceName': 'Temperature-2', 'timestamp': 1685086297, 'data': '170100012B02FF01F503FF01F0', 'fCnt': 91, 'rssi': -70, 'loRaSNR': 9.3, 'dr': 1, 'fPort': 66}
+devid:23  01_DI: 1,	2B_AIC: -2.55,	F5_AIV: -2.55
+
+[Fri May 26 15:31:39 2023]  
+  {'deviceName': 'conductivity-1', 'timestamp': 1685086299, 'data': '0B01C0000001C802670000', 'fCnt': 544, 'rssi': -77, 'loRaSNR': 11.3, 'dr': 1, 'fPort': 66}
+devid:11  C0_DI: 0,	C8_AIC: 263.68
+
+[Fri May 26 15:31:40 2023]  
+  {'deviceName': 'Conductivity-2', 'timestamp': 1685086300, 'data': '1601C000000000026709ED', 'fCnt': 320, 'rssi': -77, 'loRaSNR': 12.3, 'dr': 1, 'fPort': 66}
+devid:22  C0_DI: 0,	00_DI: 2
+
+[Fri May 26 15:31:40 2023]  
+  {'deviceName': 'Temperature-1', 'timestamp': 1685086300, 'data': '0D0167012A026701EE036701E6', 'fCnt': 11, 'rssi': -62, 'loRaSNR': 13.3, 'dr': 1, 'fPort': 66}
+devid:13  01_Temp: 29.8,	02_Temp: 49.4,	03_Temp: 48.6
+
+[Fri May 26 15:31:40 2023]  
+  {'deviceName': 'PH-1', 'timestamp': 1685086300, 'data': '15', 'fCnt': 553, 'rssi': -63, 'loRaSNR': 10.8, 'dr': 0, 'fPort': 66}
+devid:21  
+
+[Fri May 26 15:31:42 2023]  
+  {'deviceName': 'Auqa-2', 'timestamp': 1685086302, 'data': '0D003D1331013E0952023F00C703400525', 'fCnt': 46918, 'rssi': -71, 'loRaSNR': 12.0, 'dr': 1, 'fPort': 13}
+devid:13  31_DO: 62,	52_AIC: 161.28,	C7_AIV: 163.89
+
+[Fri May 26 15:31:42 2023]  
+  {'deviceName': 'PH-2', 'timestamp': 1685086302, 'data': '16', 'fCnt': 742, 'rssi': -66, 'loRaSNR': 6.5, 'dr': 1, 'fPort': 66}
+devid:22  
+
+[Fri May 26 15:31:45 2023]  
+  {'deviceName': 'Temperature-1', 'timestamp': 1685086305, 'data': '0D0167012A026701EE036701E6', 'fCnt': 12, 'rssi': -62, 'loRaSNR': 12.8, 'dr': 1, 'fPort': 66}
+devid:13  01_Temp: 29.8,	02_Temp: 49.4,	03_Temp: 48.6
+
+[Fri May 26 15:31:45 2023]  
+  {'deviceName': 'PH-1', 'timestamp': 1685086305, 'data': '15', 'fCnt': 554, 'rssi': -68, 'loRaSNR': 12.0, 'dr': 0, 'fPort': 66}
+devid:21  
+
+[Fri May 26 15:31:47 2023]  
+  {'deviceName': 'Auqa-2', 'timestamp': 1685086307, 'data': '0D003D1342013E0949023F00C603400524', 'fCnt': 46919, 'rssi': -76, 'loRaSNR': 12.8, 'dr': 1, 'fPort': 13}
+devid:13  42_DO: 62,	49_AIC: 161.28,	C6_AIV: 163.89
+
+[Fri May 26 15:31:47 2023]  
+  {'deviceName': 'PH-2', 'timestamp': 1685086307, 'data': '16', 'fCnt': 743, 'rssi': -82, 'loRaSNR': 12.3, 'dr': 1, 'fPort': 66}
+devid:22  
+
+[Fri May 26 15:31:47 2023]  
+  {'deviceName': 'Temperature-2', 'timestamp': 1685086307, 'data': '170100012B02FF01F503FF01EF', 'fCnt': 93, 'rssi': -68, 'loRaSNR': 12.0, 'dr': 1, 'fPort': 66}
+devid:23  01_DI: 1,	2B_AIC: -2.55,	F5_AIV: -2.55
+
+[Fri May 26 15:31:49 2023]  
+  {'deviceName': 'conductivity-1', 'timestamp': 1685086309, 'data': '0B01C00000018002670000', 'fCnt': 545, 'rssi': -82, 'loRaSNR': 13.3, 'dr': 1, 'fPort': 66}
+devid:11  C0_DI: 0,	80_AIC: 263.68
+
+[Fri May 26 15:31:50 2023]  
+  {'deviceName': 'Conductivity-2', 'timestamp': 1685086310, 'data': '1601C000000000026709E7', 'fCnt': 321, 'rssi': -76, 'loRaSNR': 13.3, 'dr': 1, 'fPort': 66}
+devid:22  C0_DI: 0,	00_DI: 2
+
+[Fri May 26 15:31:50 2023]  
+  {'deviceName': 'Temperature-1', 'timestamp': 1685086310, 'data': '0D0167012A026701EE036701E6', 'fCnt': 13, 'rssi': -62, 'loRaSNR': 14.5, 'dr': 1, 'fPort': 66}
+devid:13  01_Temp: 29.8,	02_Temp: 49.4,	03_Temp: 48.6
+
+[Fri May 26 15:31:50 2023]  
+  {'deviceName': 'PH-1', 'timestamp': 1685086310, 'data': '15', 'fCnt': 555, 'rssi': -58, 'loRaSNR': 7.8, 'dr': 0, 'fPort': 66}
+devid:21  
+
+[Fri May 26 15:31:52 2023]  
+  {'deviceName': 'Auqa-2', 'timestamp': 1685086312, 'data': '0D003D1323013E0942023F00C503400524', 'fCnt': 46920, 'rssi': -82, 'loRaSNR': 12.3, 'dr': 1, 'fPort': 13}
+devid:13  23_DO: 62,	42_AIC: 161.28,	C5_AIV: 163.89
+
+[Fri May 26 15:31:52 2023]  
+  {'deviceName': 'PH-2', 'timestamp': 1685086312, 'data': '16', 'fCnt': 744, 'rssi': -78, 'loRaSNR': 11.0, 'dr': 1, 'fPort': 66}
+devid:22  
+
+[Fri May 26 15:31:52 2023]  
+  {'deviceName': 'Temperature-2', 'timestamp': 1685086312, 'data': '170100012C02FF01F503FF01EF', 'fCnt': 94, 'rssi': -72, 'loRaSNR': 11.8, 'dr': 1, 'fPort': 66}
+devid:23  01_DI: 1,	2C_AIC: -2.55,	F5_AIV: -2.55
+
+[Fri May 26 15:31:54 2023]  
+  {'deviceName': 'conductivity-1', 'timestamp': 1685086314, 'data': '0B01C0000001EC02670000', 'fCnt': 546, 'rssi': -76, 'loRaSNR': 13.5, 'dr': 1, 'fPort': 66}
+devid:11  C0_DI: 0,	EC_AIC: 263.68
+
+[Fri May 26 15:31:55 2023]  
+  {'deviceName': 'Temperature-1', 'timestamp': 1685086315, 'data': '0D0167012A026701EE036701E7', 'fCnt': 14, 'rssi': -57, 'loRaSNR': 11.5, 'dr': 1, 'fPort': 66}
+devid:13  01_Temp: 29.8,	02_Temp: 49.4,	03_Temp: 48.7
+
+[Fri May 26 15:31:55 2023]  
+  {'deviceName': 'PH-1', 'timestamp': 1685086315, 'data': '15', 'fCnt': 556, 'rssi': -63, 'loRaSNR': 12.0, 'dr': 0, 'fPort': 66}
+devid:21  
+
+[Fri May 26 15:31:57 2023]  
+  {'deviceName': 'Auqa-2', 'timestamp': 1685086317, 'data': '0D003D132A013E0954023F00C503400525', 'fCnt': 46921, 'rssi': -83, 'loRaSNR': 9.0, 'dr': 1, 'fPort': 13}
+devid:13  2A_DO: 62,	54_AIC: 161.28,	C5_AIV: 163.89
+
+[Fri May 26 15:31:57 2023]  
+  {'deviceName': 'PH-2', 'timestamp': 1685086317, 'data': '16', 'fCnt': 745, 'rssi': -76, 'loRaSNR': 12.0, 'dr': 1, 'fPort': 66}
+devid:22  
+
+[Fri May 26 15:31:57 2023]  
+  {'deviceName': 'Temperature-2', 'timestamp': 1685086317, 'data': '170100012C02FF01F503FF01EF', 'fCnt': 95, 'rssi': -66, 'loRaSNR': 12.3, 'dr': 1, 'fPort': 66}
+devid:23  01_DI: 1,	2C_AIC: -2.55,	F5_AIV: -2.55
+
+[Fri May 26 15:31:59 2023]  
+  {'deviceName': 'conductivity-1', 'timestamp': 1685086319, 'data': '0B01C0000001DA02670000', 'fCnt': 547, 'rssi': -78, 'loRaSNR': 12.0, 'dr': 1, 'fPort': 66}
+devid:11  C0_DI: 0,	DA_AIC: 263.68
+
+[Fri May 26 15:32:00 2023]  
+  {'deviceName': 'Conductivity-2', 'timestamp': 1685086320, 'data': '1601C000000000026709E6', 'fCnt': 322, 'rssi': -80, 'loRaSNR': 13.0, 'dr': 1, 'fPort': 66}
+devid:22  C0_DI: 0,	00_DI: 2
+
+[Fri May 26 15:32:00 2023]  
+  {'deviceName': 'Temperature-1', 'timestamp': 1685086320, 'data': '0D0167012A026701EE036701E7', 'fCnt': 15, 'rssi': -58, 'loRaSNR': 13.0, 'dr': 1, 'fPort': 66}
+devid:13  01_Temp: 29.8,	02_Temp: 49.4,	03_Temp: 48.7
+
+[Fri May 26 15:32:00 2023]  
+  {'deviceName': 'PH-1', 'timestamp': 1685086320, 'data': '15', 'fCnt': 557, 'rssi': -57, 'loRaSNR': 11.3, 'dr': 0, 'fPort': 66}
+devid:21  
+
+[Fri May 26 15:32:02 2023]  
+  {'deviceName': 'Auqa-2', 'timestamp': 1685086322, 'data': '0D003D132A013E0945023F00C603400526', 'fCnt': 46922, 'rssi': -74, 'loRaSNR': 12.8, 'dr': 1, 'fPort': 13}
+devid:13  2A_DO: 62,	45_AIC: 161.28,	C6_AIV: 163.89
+
+[Fri May 26 15:32:02 2023]  
+  {'deviceName': 'PH-2', 'timestamp': 1685086322, 'data': '16', 'fCnt': 746, 'rssi': -71, 'loRaSNR': 8.5, 'dr': 1, 'fPort': 66}
+devid:22  
+
+[Fri May 26 15:32:02 2023]  
+  {'deviceName': 'Temperature-2', 'timestamp': 1685086322, 'data': '170100012C02FF01F503FF01EF', 'fCnt': 96, 'rssi': -70, 'loRaSNR': 12.3, 'dr': 1, 'fPort': 66}
+devid:23  01_DI: 1,	2C_AIC: -2.55,	F5_AIV: -2.55
+
+[Fri May 26 15:32:04 2023]  
+  {'deviceName': 'conductivity-1', 'timestamp': 1685086324, 'data': '0B01C00000019202670000', 'fCnt': 548, 'rssi': -77, 'loRaSNR': 8.5, 'dr': 1, 'fPort': 66}
+devid:11  C0_DI: 0,	92_AIC: 263.68
+
+[Fri May 26 15:32:05 2023]  
+  {'deviceName': 'Temperature-1', 'timestamp': 1685086325, 'data': '0D01670129026701EE036701E7', 'fCnt': 16, 'rssi': -58, 'loRaSNR': 12.5, 'dr': 1, 'fPort': 66}
+devid:13  01_Temp: 29.7,	02_Temp: 49.4,	03_Temp: 48.7
+
+[Fri May 26 15:32:05 2023]  
+  {'deviceName': 'PH-1', 'timestamp': 1685086325, 'data': '15', 'fCnt': 558, 'rssi': -58, 'loRaSNR': 10.3, 'dr': 0, 'fPort': 66}
+devid:21  
+
+[Fri May 26 15:32:07 2023]  
+  {'deviceName': 'Auqa-2', 'timestamp': 1685086327, 'data': '0D003D1342013E0940023F00C503400525', 'fCnt': 46923, 'rssi': -72, 'loRaSNR': 11.0, 'dr': 1, 'fPort': 13}
+devid:13  42_DO: 62,	40_AIC: 161.28,	C5_AIV: 163.89
+
+[Fri May 26 15:32:07 2023]  
+  {'deviceName': 'PH-2', 'timestamp': 1685086327, 'data': '16', 'fCnt': 747, 'rssi': -74, 'loRaSNR': 12.0, 'dr': 1, 'fPort': 66}
+devid:22  
+
+[Fri May 26 15:32:07 2023]  
+  {'deviceName': 'Temperature-2', 'timestamp': 1685086327, 'data': '170100012C02FF01F503FF01EF', 'fCnt': 97, 'rssi': -69, 'loRaSNR': 12.0, 'dr': 1, 'fPort': 66}
+devid:23  01_DI: 1,	2C_AIC: -2.55,	F5_AIV: -2.55
+
+[Fri May 26 15:32:09 2023]  
+  {'deviceName': 'conductivity-1', 'timestamp': 1685086329, 'data': '0B01C0000001EC02670000', 'fCnt': 549, 'rssi': -77, 'loRaSNR': 12.0, 'dr': 1, 'fPort': 66}
+devid:11  C0_DI: 0,	EC_AIC: 263.68
+
+[Fri May 26 15:32:10 2023]  
+  {'deviceName': 'Conductivity-2', 'timestamp': 1685086330, 'data': '1601C000000000026709E4', 'fCnt': 323, 'rssi': -83, 'loRaSNR': 9.3, 'dr': 1, 'fPort': 66}
+devid:22  C0_DI: 0,	00_DI: 2
+
+[Fri May 26 15:32:10 2023]  
+  {'deviceName': 'Temperature-1', 'timestamp': 1685086330, 'data': '0D01670129026701EE036701E7', 'fCnt': 17, 'rssi': -64, 'loRaSNR': 12.8, 'dr': 1, 'fPort': 66}
+devid:13  01_Temp: 29.7,	02_Temp: 49.4,	03_Temp: 48.7
+
+[Fri May 26 15:32:10 2023]  
+  {'deviceName': 'PH-1', 'timestamp': 1685086330, 'data': '15', 'fCnt': 559, 'rssi': -61, 'loRaSNR': 11.8, 'dr': 0, 'fPort': 66}
+devid:21  
+
+[Fri May 26 15:32:12 2023]  
+  {'deviceName': 'Auqa-2', 'timestamp': 1685086332, 'data': '0D003D132C013E0950023F00C503400525', 'fCnt': 46924, 'rssi': -76, 'loRaSNR': 13.0, 'dr': 1, 'fPort': 13}
+devid:13  2C_DO: 62,	50_AIC: 161.28,	C5_AIV: 163.89
+
+[Fri May 26 15:32:12 2023]  
+  {'deviceName': 'PH-2', 'timestamp': 1685086332, 'data': '16', 'fCnt': 748, 'rssi': -71, 'loRaSNR': 11.8, 'dr': 1, 'fPort': 66}
+devid:22  
+
+[Fri May 26 15:32:12 2023]  
+  {'deviceName': 'Temperature-2', 'timestamp': 1685086332, 'data': '170100012C02FF01F403FF01EF', 'fCnt': 98, 'rssi': -74, 'loRaSNR': 13.3, 'dr': 1, 'fPort': 66}
+devid:23  01_DI: 1,	2C_AIC: -2.55,	F4_AIV: -2.55
+
+[Fri May 26 15:32:14 2023]  
+  {'deviceName': 'conductivity-1', 'timestamp': 1685086334, 'data': '0B01C00000021102670000', 'fCnt': 550, 'rssi': -78, 'loRaSNR': 12.5, 'dr': 1, 'fPort': 66}
+devid:11  C0_DI: 0,	11_AIC: 263.68
+
+[Fri May 26 15:32:15 2023]  
+  {'deviceName': 'PH-1', 'timestamp': 1685086335, 'data': '15', 'fCnt': 560, 'rssi': -66, 'loRaSNR': 9.0, 'dr': 0, 'fPort': 66}
+devid:21  
+
+[Fri May 26 15:32:17 2023]  
+  {'deviceName': 'Auqa-2', 'timestamp': 1685086337, 'data': '0D003D1331013E0958023F00C603400525', 'fCnt': 46925, 'rssi': -76, 'loRaSNR': 13.3, 'dr': 1, 'fPort': 13}
+devid:13  31_DO: 62,	58_AIC: 161.28,	C6_AIV: 163.89
+
+[Fri May 26 15:32:17 2023]  
+  {'deviceName': 'PH-2', 'timestamp': 1685086337, 'data': '16', 'fCnt': 749, 'rssi': -70, 'loRaSNR': 13.3, 'dr': 1, 'fPort': 66}
+devid:22  
+
+[Fri May 26 15:32:17 2023]  
+  {'deviceName': 'Temperature-2', 'timestamp': 1685086337, 'data': '170100012C02FF01F503FF01EF', 'fCnt': 99, 'rssi': -76, 'loRaSNR': 14.3, 'dr': 1, 'fPort': 66}
+devid:23  01_DI: 1,	2C_AIC: -2.55,	F5_AIV: -2.55
+
+[Fri May 26 15:32:19 2023]  
+  {'deviceName': 'conductivity-1', 'timestamp': 1685086339, 'data': '0B01C00000019202670000', 'fCnt': 551, 'rssi': -80, 'loRaSNR': 12.0, 'dr': 1, 'fPort': 66}
+devid:11  C0_DI: 0,	92_AIC: 263.68
+
+[Fri May 26 15:32:20 2023]  
+  {'deviceName': 'Conductivity-2', 'timestamp': 1685086340, 'data': '1601C000000000026709E8', 'fCnt': 324, 'rssi': -88, 'loRaSNR': 13.3, 'dr': 1, 'fPort': 66}
+devid:22  C0_DI: 0,	00_DI: 2
+
+[Fri May 26 15:32:20 2023]  
+  {'deviceName': 'Temperature-1', 'timestamp': 1685086340, 'data': '0D01670129026701EE036701E7', 'fCnt': 18, 'rssi': -58, 'loRaSNR': 11.3, 'dr': 1, 'fPort': 66}
+devid:13  01_Temp: 29.7,	02_Temp: 49.4,	03_Temp: 48.7
+
+[Fri May 26 15:32:20 2023]  
+  {'deviceName': 'PH-1', 'timestamp': 1685086340, 'data': '15', 'fCnt': 561, 'rssi': -57, 'loRaSNR': 9.8, 'dr': 0, 'fPort': 66}
+devid:21  
+
+[Fri May 26 15:32:22 2023]  
+  {'deviceName': 'Auqa-2', 'timestamp': 1685086342, 'data': '0D003D1310013E0954023F00C603400525', 'fCnt': 46926, 'rssi': -69, 'loRaSNR': 12.0, 'dr': 1, 'fPort': 13}
+devid:13  10_DO: 62,	54_AIC: 161.28,	C6_AIV: 163.89
+
+[Fri May 26 15:32:22 2023]  
+  {'deviceName': 'PH-2', 'timestamp': 1685086342, 'data': '16', 'fCnt': 750, 'rssi': -64, 'loRaSNR': 11.5, 'dr': 1, 'fPort': 66}
+devid:22  
+
+[Fri May 26 15:32:22 2023]  
+  {'deviceName': 'Temperature-2', 'timestamp': 1685086342, 'data': '170100012C02FF01F503FF01EF', 'fCnt': 100, 'rssi': -74, 'loRaSNR': 13.3, 'dr': 1, 'fPort': 66}
+devid:23  01_DI: 1,	2C_AIC: -2.55,	F5_AIV: -2.55
+
+[Fri May 26 15:32:24 2023]  
+  {'deviceName': 'conductivity-1', 'timestamp': 1685086344, 'data': '0B01C00000021102670000', 'fCnt': 552, 'rssi': -82, 'loRaSNR': 13.0, 'dr': 1, 'fPort': 66}
+devid:11  C0_DI: 0,	11_AIC: 263.68
+
+[Fri May 26 15:32:25 2023]  
+  {'deviceName': 'Temperature-1', 'timestamp': 1685086345, 'data': '0D01670129026701EE036701E7', 'fCnt': 19, 'rssi': -60, 'loRaSNR': 12.0, 'dr': 1, 'fPort': 66}
+devid:13  01_Temp: 29.7,	02_Temp: 49.4,	03_Temp: 48.7
+
+[Fri May 26 15:32:25 2023]  
+  {'deviceName': 'PH-1', 'timestamp': 1685086345, 'data': '15', 'fCnt': 562, 'rssi': -59, 'loRaSNR': 13.0, 'dr': 0, 'fPort': 66}
+devid:21  
+
+[Fri May 26 15:32:27 2023]  
+  {'deviceName': 'Auqa-2', 'timestamp': 1685086347, 'data': '0D003D1321013E0949023F00C603400524', 'fCnt': 46927, 'rssi': -76, 'loRaSNR': 13.0, 'dr': 1, 'fPort': 13}
+devid:13  21_DO: 62,	49_AIC: 161.28,	C6_AIV: 163.89
+
+[Fri May 26 15:32:27 2023]  
+  {'deviceName': 'PH-2', 'timestamp': 1685086347, 'data': '16', 'fCnt': 751, 'rssi': -66, 'loRaSNR': 11.5, 'dr': 1, 'fPort': 66}
+devid:22  
+
+[Fri May 26 15:32:27 2023]  
+  {'deviceName': 'Temperature-2', 'timestamp': 1685086347, 'data': '170100012C02FF01F403FF01EF', 'fCnt': 101, 'rssi': -76, 'loRaSNR': 13.5, 'dr': 1, 'fPort': 66}
+devid:23  01_DI: 1,	2C_AIC: -2.55,	F4_AIV: -2.55
+
+[Fri May 26 15:32:29 2023]  
+  {'deviceName': 'conductivity-1', 'timestamp': 1685086349, 'data': '0B01C00000016E02670000', 'fCnt': 553, 'rssi': -83, 'loRaSNR': 12.5, 'dr': 1, 'fPort': 66}
+devid:11  C0_DI: 0,	6E_AIC: 263.68
+
+[Fri May 26 15:32:30 2023]  
+  {'deviceName': 'Conductivity-2', 'timestamp': 1685086350, 'data': '1601C000000000026709F1', 'fCnt': 325, 'rssi': -88, 'loRaSNR': 11.3, 'dr': 1, 'fPort': 66}
+devid:22  C0_DI: 0,	00_DI: 2
+
+[Fri May 26 15:32:30 2023]  
+  {'deviceName': 'Temperature-1', 'timestamp': 1685086350, 'data': '0D01670129026701EE036701E7', 'fCnt': 20, 'rssi': -60, 'loRaSNR': 11.3, 'dr': 1, 'fPort': 66}
+devid:13  01_Temp: 29.7,	02_Temp: 49.4,	03_Temp: 48.7
+
+[Fri May 26 15:32:30 2023]  
+  {'deviceName': 'PH-1', 'timestamp': 1685086350, 'data': '15', 'fCnt': 563, 'rssi': -63, 'loRaSNR': 8.5, 'dr': 0, 'fPort': 66}
+devid:21  
+
+[Fri May 26 15:32:32 2023]  
+  {'deviceName': 'Auqa-2', 'timestamp': 1685086352, 'data': '0D003D1331013E0950023F00C603400526', 'fCnt': 46928, 'rssi': -82, 'loRaSNR': 9.8, 'dr': 1, 'fPort': 13}
+devid:13  31_DO: 62,	50_AIC: 161.28,	C6_AIV: 163.89
+
+[Fri May 26 15:32:32 2023]  
+  {'deviceName': 'PH-2', 'timestamp': 1685086352, 'data': '16', 'fCnt': 752, 'rssi': -71, 'loRaSNR': 5.5, 'dr': 1, 'fPort': 66}
+devid:22  
+
+[Fri May 26 15:32:34 2023]  
+  {'deviceName': 'conductivity-1', 'timestamp': 1685086354, 'data': '0B01C0000001FE02670000', 'fCnt': 554, 'rssi': -80, 'loRaSNR': 12.5, 'dr': 1, 'fPort': 66}
+devid:11  C0_DI: 0,	FE_AIC: 263.68
+
+[Fri May 26 15:32:35 2023]  
+  {'deviceName': 'PH-1', 'timestamp': 1685086355, 'data': '15', 'fCnt': 564, 'rssi': -64, 'loRaSNR': 12.3, 'dr': 0, 'fPort': 66}
+devid:21  
+
+[Fri May 26 15:32:37 2023]  
+  {'deviceName': 'Auqa-2', 'timestamp': 1685086357, 'data': '0D003D133C013E0954023F00C603400525', 'fCnt': 46929, 'rssi': -74, 'loRaSNR': 11.5, 'dr': 1, 'fPort': 13}
+devid:13  3C_DO: 62,	54_AIC: 161.28,	C6_AIV: 163.89
+
+[Fri May 26 15:32:37 2023]  
+  {'deviceName': 'PH-2', 'timestamp': 1685086357, 'data': '16', 'fCnt': 753, 'rssi': -68, 'loRaSNR': 12.8, 'dr': 1, 'fPort': 66}
+devid:22  
+
+[Fri May 26 15:32:37 2023]  
+  {'deviceName': 'Temperature-2', 'timestamp': 1685086357, 'data': '170100012C02FF01F403FF01EF', 'fCnt': 103, 'rssi': -74, 'loRaSNR': 10.3, 'dr': 1, 'fPort': 66}
+devid:23  01_DI: 1,	2C_AIC: -2.55,	F4_AIV: -2.55
+
+[Fri May 26 15:32:39 2023]  
+  {'deviceName': 'conductivity-1', 'timestamp': 1685086359, 'data': '0B01C0000001EC02670000', 'fCnt': 555, 'rssi': -82, 'loRaSNR': 9.3, 'dr': 1, 'fPort': 66}
+devid:11  C0_DI: 0,	EC_AIC: 263.68
