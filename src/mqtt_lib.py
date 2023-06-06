@@ -11,7 +11,7 @@ with open('topo/snsr_type_def.json', 'r') as f:
 
 
 class MQTT_Module:
-    def __init__(self, hostIP, appID='', devEUI='', sub_topic='', pub_topic='', client_id='', client_pw='', port=1883):
+    def __init__(self, hostIP, appID='', devEUI='', sub_topic='', pub_topic='', client_id='', client_pw='', port=1883, logfile=''):
         self.hostIP = hostIP
         if sub_topic == '':
             # self.sub_topic = "application/%s/device/%s/rx" % (str(appID), devEUI.lower())
@@ -23,6 +23,7 @@ class MQTT_Module:
             self.pub_topic = "#"
         else:
             self.pub_topic = pub_topic
+        self.logfile = logfile
         self.client_id = client_id
         self.client_pw = client_pw
         self.grep_key = ["fPort", "data", "frequency", "dr"]
@@ -100,7 +101,7 @@ class MQTT_Module:
                 value = ''
                 pattern = re.compile('.{2}')
                 handle_data = pattern.findall(data)
-                print('split data then put in handle_data list\n%s'%(f'{handle_data}'))
+                # print('split data then put in handle_data list\n%s'%(f'{handle_data}'))
                 dev_id = int(handle_data[0], 16) # device id in here
                 snsr_id_index = 1
                 while (snsr_id_index+1) < len(handle_data) and '\r' not in data:
@@ -119,14 +120,14 @@ class MQTT_Module:
                         sensor_id_type = ''.join(i for i in handle_data[data_index-2: data_index])
                         hex_data = ''.join(i for i in handle_data[data_index: data_index+inner_dict['length']])
                         dec_data = round(twosComplement_hex(hex_data)*resolution,2) 
-                        value += '\t%s_%s: %s%s'   %(CH_id, sensor_name, dec_data, unit)
+                        value += '\t%s_%s:%s%s'   %(CH_id, sensor_name, dec_data, unit)
                         snsr_id_index += (1+inner_dict['length'])
                     snsr_id_index += 1
-                print(deviceName)
-                print('devid:%s%s\n'%(dev_id, value))
+                log_tmp = 'deviceName:%s\tdevid:%s%s'%(deviceName, dev_id, value)
+                log(log_tmp, self.logfile)
         except:
             data = msg.payload.decode('utf-8') 
-            print(data)
+            log(data, self.logfile)
 
         if self.loop_forever != 1:
             self.recv_list.append(data)         
@@ -138,7 +139,14 @@ class MQTT_Module:
         return dashboard_dict
 
 
-
+def log(log, path):
+    
+    time_mark =  time.strftime( "%Y.%m.%d_%X", time.localtime() )
+    log = '[%s] %s'%(time_mark, log)
+    f = open(path, 'a')
+    print('\n%s'%log)
+    print('\n%s'%log, file= f)
+    f.close()
 
 def twosComplement_hex(hexval):
     bits = 16

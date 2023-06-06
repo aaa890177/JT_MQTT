@@ -1,23 +1,43 @@
 {
 "67": {
-	  "name": "T",
-      "resolution" : 0.01,
+	"name": "T",
+      "resolution" : 0.1,
       "length": 2,
       "unit": ""
 	},
 
 "C0": {
-	  "name": "Conductivity",
+	"name": "Conductivity",
       "resolution" : 0.001,
       "length": 4,
       "unit": ""
       },
 
 "0B": {
-	  "name": "PH",
+	"name": "PH",
       "resolution" : 0.01,
       "length": 2,
       "unit": ""
-	}
+	},
+"A0": {
+      "name": "NACLO3",
+      "resolution" : 0.1,
+      "length": 2,
+      "unit": ""
+      },
+"A1": {
+      "name": "HCL",
+      "resolution" : 0.01,
+      "length": 2,
+      "unit": ""
+      },
+"A2": {
+      "name": "SG",
+      "resolution" : 0.001,
+      "length": 2,
+      "unit": ""
+      }
+
+
 }
 
