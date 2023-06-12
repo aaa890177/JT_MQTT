@@ -11,7 +11,7 @@ data = '{\"Timestamp\": \"2023/05/22 17:13:36\", \"S.G\": \"1.358\", \"HCL\": \"
 # 03_HCL      = 03A100C6
 # 04_SG       = 04A20088
 # 0E0167016002A0015803A100C604A20088
-
+data ='2023/05/15 09:59:23      S.G = 1.348     HCl(M/L) = 1.970  NaClO3 = 38.000         TEMP(#) = 50.100'
 def data_to_hex(data):
     pattern = r'\"(\d+\.\d+)\"'
     raw_list = re.findall(pattern, data)
@@ -19,7 +19,7 @@ def data_to_hex(data):
     value_list = []
     for val in raw_list:
         val =round(float(val),2)
-        val = re.sub('0|\.','',str(val))
+        val = re.sub('\.','',str(val))
         hexadecimal_number = hex(int(val))[2:]
         formatted_values = str(hexadecimal_number).zfill(4)
         value_list.append(formatted_values.upper())

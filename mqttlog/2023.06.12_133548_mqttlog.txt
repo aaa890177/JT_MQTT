@@ -1,0 +1,118 @@
+
+[2023.06.12_13:35:52] deviceName: Aqua-1         devid:14	01_T:50.9	02_NACLO3:25.5	03_HCL:2.03	04_SG:0.13
+
+[2023.06.12_13:35:52] deviceName: PH-1           devid:12
+
+[2023.06.12_13:35:52] deviceName: Conductivity-1 devid:11	01_Conductivity:7537.26
+
+[2023.06.12_13:35:52] deviceName: Temperature-1  devid:13	01_T:29.9	02_T:50.7	03_T:49.2
+
+[2023.06.12_13:35:57] deviceName: Aqua-1         devid:14	01_T:50.9	02_NACLO3:25.5	03_HCL:2.03	04_SG:0.13
+
+[2023.06.12_13:35:57] deviceName: PH-1           devid:12
+
+[2023.06.12_13:35:57] deviceName: Conductivity-1 devid:11	01_Conductivity:7537.26
+
+[2023.06.12_13:35:57] deviceName: Temperature-1  devid:13	01_T:29.9	02_T:50.7	03_T:49.2
+
+[2023.06.12_13:36:02] deviceName: Aqua-1         devid:14	01_T:50.9	02_NACLO3:25.5	03_HCL:2.03	04_SG:0.13
+
+[2023.06.12_13:36:02] deviceName: PH-1           devid:12
+
+[2023.06.12_13:36:02] deviceName: Conductivity-1 devid:11	01_Conductivity:7537.26
+
+[2023.06.12_13:36:02] deviceName: Temperature-1  devid:13	01_T:29.9	02_T:50.7	03_T:49.2
+
+[2023.06.12_13:36:07] deviceName: Aqua-1         devid:14	01_T:50.9	02_NACLO3:25.5	03_HCL:2.03	04_SG:0.13
+
+[2023.06.12_13:36:07] deviceName: PH-1           devid:12
+
+[2023.06.12_13:36:07] deviceName: Conductivity-1 devid:11	01_Conductivity:7537.26
+
+[2023.06.12_13:36:07] deviceName: Temperature-1  devid:13	01_T:29.9	02_T:50.8	03_T:49.2
+
+[2023.06.12_13:36:12] deviceName: Aqua-1         devid:14	01_T:50.9	02_NACLO3:25.5	03_HCL:2.03	04_SG:0.13
+
+[2023.06.12_13:36:12] deviceName: PH-1           devid:12
+
+[2023.06.12_13:36:12] deviceName: Conductivity-1 devid:11	01_Conductivity:7537.26
+
+[2023.06.12_13:36:12] deviceName: Temperature-1  devid:13	01_T:29.9	02_T:50.8	03_T:49.2
+
+[2023.06.12_13:36:17] deviceName: Aqua-1         devid:14	01_T:50.9	02_NACLO3:25.5	03_HCL:2.03	04_SG:0.13
+
+[2023.06.12_13:36:17] deviceName: PH-1           devid:12
+
+[2023.06.12_13:36:17] deviceName: Conductivity-1 devid:11	01_Conductivity:7537.26
+
+[2023.06.12_13:36:17] deviceName: Temperature-1  devid:13	01_T:29.9	02_T:50.8	03_T:49.1
+
+[2023.06.12_13:36:22] deviceName: Aqua-1         devid:14	01_T:50.9	02_NACLO3:25.5	03_HCL:2.02	04_SG:0.13
+
+[2023.06.12_13:36:22] deviceName: PH-1           devid:12
+
+[2023.06.12_13:36:22] deviceName: Conductivity-1 devid:11	01_Conductivity:7537.26
+
+[2023.06.12_13:36:22] deviceName: Temperature-1  devid:13	01_T:29.9	02_T:50.8	03_T:49.1
+
+[2023.06.12_13:36:27] deviceName: Aqua-1         devid:14	01_T:50.9	02_NACLO3:25.5	03_HCL:2.02	04_SG:0.13
+
+[2023.06.12_13:36:27] deviceName: PH-1           devid:12
+
+[2023.06.12_13:36:27] deviceName: Conductivity-1 devid:11	01_Conductivity:7537.26
+
+[2023.06.12_13:36:27] deviceName: Temperature-1  devid:13	01_T:29.9	02_T:50.8	03_T:49.1
+
+[2023.06.12_13:36:32] deviceName: Aqua-1         devid:14	01_T:50.9	02_NACLO3:25.5	03_HCL:2.03	04_SG:0.13
+
+[2023.06.12_13:36:32] deviceName: PH-1           devid:12
+
+[2023.06.12_13:36:33] deviceName: Temperature-1  devid:13	01_T:29.9	02_T:50.8	03_T:49.2
+
+[2023.06.12_13:36:37] deviceName: Aqua-1         devid:14	01_T:50.9	02_NACLO3:25.5	03_HCL:2.03	04_SG:0.13
+
+[2023.06.12_13:36:37] deviceName: PH-1           devid:12
+
+[2023.06.12_13:36:37] deviceName: Conductivity-1 devid:11	01_Conductivity:7537.26
+
+[2023.06.12_13:36:37] deviceName: Temperature-1  devid:13	01_T:29.8	02_T:50.8	03_T:49.4
+
+[2023.06.12_13:36:42] deviceName: Aqua-1         devid:14	01_T:50.9	02_NACLO3:25.5	03_HCL:2.03	04_SG:0.13
+
+[2023.06.12_13:36:42] deviceName: PH-1           devid:12
+
+[2023.06.12_13:36:42] deviceName: Conductivity-1 devid:11	01_Conductivity:7537.26
+
+[2023.06.12_13:36:42] deviceName: Temperature-1  devid:13	01_T:29.8	02_T:50.8	03_T:49.5
+
+[2023.06.12_13:36:47] deviceName: Aqua-1         devid:14	01_T:50.9	02_NACLO3:25.5	03_HCL:2.03	04_SG:0.13
+
+[2023.06.12_13:36:47] deviceName: PH-1           devid:12
+
+[2023.06.12_13:36:47] deviceName: Conductivity-1 devid:11	01_Conductivity:7537.26
+
+[2023.06.12_13:36:47] deviceName: Temperature-1  devid:13	01_T:29.8	02_T:50.8	03_T:49.4
+
+[2023.06.12_13:36:52] deviceName: Aqua-1         devid:14	01_T:50.9	02_NACLO3:25.5	03_HCL:2.03	04_SG:0.13
+
+[2023.06.12_13:36:52] deviceName: PH-1           devid:12
+
+[2023.06.12_13:36:52] deviceName: Conductivity-1 devid:11	01_Conductivity:7537.26
+
+[2023.06.12_13:36:52] deviceName: Temperature-1  devid:13	01_T:29.8	02_T:50.8	03_T:49.4
+
+[2023.06.12_13:36:57] deviceName: Aqua-1         devid:14	01_T:50.9	02_NACLO3:25.5	03_HCL:2.03	04_SG:0.13
+
+[2023.06.12_13:36:57] deviceName: PH-1           devid:12
+
+[2023.06.12_13:36:57] deviceName: Conductivity-1 devid:11	01_Conductivity:7537.26
+
+[2023.06.12_13:36:57] deviceName: Temperature-1  devid:13	01_T:29.8	02_T:50.8	03_T:49.5
+
+[2023.06.12_13:37:02] deviceName: Aqua-1         devid:14	01_T:50.9	02_NACLO3:25.5	03_HCL:2.03	04_SG:0.13
+
+[2023.06.12_13:37:02] deviceName: PH-1           devid:12
+
+[2023.06.12_13:37:02] deviceName: Conductivity-1 devid:11	01_Conductivity:7537.26
+
+[2023.06.12_13:37:03] deviceName: Temperature-1  devid:13	01_T:29.8	02_T:50.8	03_T:49.4

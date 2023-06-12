@@ -1,0 +1,418 @@
+
+[2023.06.12_11:36:54] deviceName:PH-1	devid:12
+
+[2023.06.12_11:36:58] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:36:58] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.8	03_T:21.1
+
+[2023.06.12_11:36:59] deviceName:PH-1	devid:12
+
+[2023.06.12_11:37:03] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:37:03] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.8	03_T:21.1
+
+[2023.06.12_11:37:06] deviceName:Conductivity-1	devid:11	01_Conductivity:7537.26
+
+[2023.06.12_11:37:08] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:37:08] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:37:09] deviceName:PH-1	devid:12
+
+[2023.06.12_11:37:13] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:37:13] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:37:16] deviceName:Conductivity-1	devid:11	01_Conductivity:7537.26
+
+[2023.06.12_11:37:18] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:37:18] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.8	03_T:21.1
+
+[2023.06.12_11:37:21] deviceName:Conductivity-1	devid:11	01_Conductivity:7537.26
+
+[2023.06.12_11:37:23] deviceName:Temperature-1	devid:13	01_T:29.6	02_T:48.5	03_T:43.7
+
+[2023.06.12_11:37:23] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.8	03_T:21.1
+
+[2023.06.12_11:37:24] deviceName:PH-1	devid:12
+
+[2023.06.12_11:37:28] deviceName:Temperature-1	devid:13	01_T:29.6	02_T:48.6	03_T:43.8
+
+[2023.06.12_11:37:28] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:37:29] deviceName:PH-1	devid:12
+
+[2023.06.12_11:37:33] deviceName:Temperature-1	devid:13	01_T:29.6	02_T:48.6	03_T:43.8
+
+[2023.06.12_11:37:33] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.8	03_T:21.1
+
+[2023.06.12_11:37:34] deviceName:PH-1	devid:12
+
+[2023.06.12_11:37:38] deviceName:Temperature-1	devid:13	01_T:29.7	02_T:48.6	03_T:44.0
+
+[2023.06.12_11:37:38] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:37:41] deviceName:Conductivity-1	devid:11	01_Conductivity:7537.26
+
+[2023.06.12_11:37:43] deviceName:Temperature-1	devid:13	01_T:29.7	02_T:48.7	03_T:44.0
+
+[2023.06.12_11:37:43] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.8	03_T:21.1
+
+[2023.06.12_11:37:44] deviceName:PH-1	devid:12
+
+[2023.06.12_11:37:48] deviceName:Temperature-1	devid:13	01_T:29.8	02_T:48.7	03_T:44.0
+
+[2023.06.12_11:37:48] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:37:49] deviceName:PH-1	devid:12
+
+[2023.06.12_11:37:53] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:37:53] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.8	03_T:21.1
+
+[2023.06.12_11:37:56] deviceName:Conductivity-1	devid:11	01_Conductivity:7537.26
+
+[2023.06.12_11:37:58] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:37:58] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:37:59] deviceName:PH-1	devid:12
+
+[2023.06.12_11:38:03] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:38:03] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:38:04] deviceName:PH-1	devid:12
+
+[2023.06.12_11:38:08] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:38:08] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:38:09] deviceName:PH-1	devid:12
+
+[2023.06.12_11:38:12] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:38:13] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.8	03_T:21.1
+
+[2023.06.12_11:38:14] deviceName:PH-1	devid:12
+
+[2023.06.12_11:38:18] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:38:18] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.8	03_T:21.1
+
+[2023.06.12_11:38:21] deviceName:Conductivity-1	devid:11	01_Conductivity:7537.26
+
+[2023.06.12_11:38:23] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:38:24] deviceName:PH-1	devid:12
+
+[2023.06.12_11:38:28] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:38:28] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:38:29] deviceName:PH-1	devid:12
+
+[2023.06.12_11:38:33] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:38:33] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.8	03_T:21.1
+
+[2023.06.12_11:38:34] deviceName:PH-1	devid:12
+
+[2023.06.12_11:38:38] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:38:38] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.8	03_T:21.1
+
+[2023.06.12_11:38:39] deviceName:PH-1	devid:12
+
+[2023.06.12_11:38:43] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:38:43] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:38:44] deviceName:PH-1	devid:12
+
+[2023.06.12_11:38:48] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:38:48] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.8	03_T:21.1
+
+[2023.06.12_11:38:49] deviceName:PH-1	devid:12
+
+[2023.06.12_11:38:53] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:38:53] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.8	03_T:21.1
+
+[2023.06.12_11:38:54] deviceName:PH-1	devid:12
+
+[2023.06.12_11:38:58] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:38:58] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:39:01] deviceName:Conductivity-1	devid:11	01_Conductivity:7537.26
+
+[2023.06.12_11:39:03] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:39:03] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:39:04] deviceName:PH-1	devid:12
+
+[2023.06.12_11:39:08] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:39:08] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.8	03_T:21.1
+
+[2023.06.12_11:39:09] deviceName:PH-1	devid:12
+
+[2023.06.12_11:39:13] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:39:13] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.8	03_T:21.1
+
+[2023.06.12_11:39:14] deviceName:PH-1	devid:12
+
+[2023.06.12_11:39:18] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:39:18] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:39:21] deviceName:Conductivity-1	devid:11	01_Conductivity:7537.26
+
+[2023.06.12_11:39:23] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:39:23] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:39:26] deviceName:Conductivity-1	devid:11	01_Conductivity:7537.26
+
+[2023.06.12_11:39:28] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:39:28] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:39:31] deviceName:Conductivity-1	devid:11	01_Conductivity:7537.26
+
+[2023.06.12_11:39:32] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:39:33] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:39:34] deviceName:PH-1	devid:12
+
+[2023.06.12_11:39:38] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:39:38] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:39:39] deviceName:PH-1	devid:12
+
+[2023.06.12_11:39:43] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:39:43] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.8	03_T:21.1
+
+[2023.06.12_11:39:44] deviceName:PH-1	devid:12
+
+[2023.06.12_11:39:48] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:39:48] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:39:49] deviceName:PH-1	devid:12
+
+[2023.06.12_11:39:53] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:39:53] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:39:56] deviceName:Conductivity-1	devid:11	01_Conductivity:7537.26
+
+[2023.06.12_11:39:58] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:39:58] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:40:01] deviceName:Conductivity-1	devid:11	01_Conductivity:7537.26
+
+[2023.06.12_11:40:03] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:40:03] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:40:04] deviceName:PH-1	devid:12
+
+[2023.06.12_11:40:08] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:40:08] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:40:09] deviceName:PH-1	devid:12
+
+[2023.06.12_11:40:13] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:40:13] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:40:16] deviceName:Conductivity-1	devid:11	01_Conductivity:7537.26
+
+[2023.06.12_11:40:17] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:40:18] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:40:21] deviceName:Conductivity-1	devid:11	01_Conductivity:7537.26
+
+[2023.06.12_11:40:23] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:40:23] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:40:24] deviceName:PH-1	devid:12
+
+[2023.06.12_11:40:28] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:40:28] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:40:29] deviceName:PH-1	devid:12
+
+[2023.06.12_11:40:33] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:40:33] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:40:34] deviceName:PH-1	devid:12
+
+[2023.06.12_11:40:38] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:40:38] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:40:39] deviceName:PH-1	devid:12
+
+[2023.06.12_11:40:42] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:40:43] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:40:44] deviceName:PH-1	devid:12
+
+[2023.06.12_11:40:48] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:40:48] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:40:51] deviceName:Conductivity-1	devid:11	01_Conductivity:7537.26
+
+[2023.06.12_11:40:53] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:40:53] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.8	03_T:21.1
+
+[2023.06.12_11:40:54] deviceName:PH-1	devid:12
+
+[2023.06.12_11:40:57] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:40:58] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:41:01] deviceName:Conductivity-1	devid:11	01_Conductivity:7537.26
+
+[2023.06.12_11:41:03] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:41:03] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:41:04] deviceName:PH-1	devid:12
+
+[2023.06.12_11:41:08] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:41:08] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:41:09] deviceName:PH-1	devid:12
+
+[2023.06.12_11:41:13] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:41:13] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.8	03_T:21.1
+
+[2023.06.12_11:41:14] deviceName:PH-1	devid:12
+
+[2023.06.12_11:41:18] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:41:18] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:41:21] deviceName:Conductivity-1	devid:11	01_Conductivity:7537.26
+
+[2023.06.12_11:41:22] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:41:23] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:41:24] deviceName:PH-1	devid:12
+
+[2023.06.12_11:41:28] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:41:28] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.8	03_T:21.1
+
+[2023.06.12_11:41:29] deviceName:PH-1	devid:12
+
+[2023.06.12_11:41:33] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:41:33] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:41:36] deviceName:Conductivity-1	devid:11	01_Conductivity:7537.26
+
+[2023.06.12_11:41:38] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:41:38] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.8	03_T:21.1
+
+[2023.06.12_11:41:39] deviceName:PH-1	devid:12
+
+[2023.06.12_11:41:43] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:41:43] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:41:44] deviceName:PH-1	devid:12
+
+[2023.06.12_11:41:47] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:41:48] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:41:49] deviceName:PH-1	devid:12
+
+[2023.06.12_11:41:53] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:41:53] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.8	03_T:21.1
+
+[2023.06.12_11:41:54] deviceName:PH-1	devid:12
+
+[2023.06.12_11:41:58] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:41:58] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.8	03_T:21.1
+
+[2023.06.12_11:41:59] deviceName:PH-1	devid:12
+
+[2023.06.12_11:42:02] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:42:03] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.8	03_T:21.1
+
+[2023.06.12_11:42:04] deviceName:PH-1	devid:12
+
+[2023.06.12_11:42:07] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:42:08] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:42:11] deviceName:Conductivity-1	devid:11	01_Conductivity:7537.26
+
+[2023.06.12_11:42:13] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:42:13] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:42:16] deviceName:Conductivity-1	devid:11	01_Conductivity:7537.26
+
+[2023.06.12_11:42:18] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:42:18] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:42:21] deviceName:Conductivity-1	devid:11	01_Conductivity:7537.26
+
+[2023.06.12_11:42:23] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:42:23] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.8	03_T:21.1
+
+[2023.06.12_11:42:26] deviceName:Conductivity-1	devid:11	01_Conductivity:7537.26
+
+[2023.06.12_11:42:27] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:42:28] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:42:31] deviceName:Conductivity-1	devid:11	01_Conductivity:7537.26
+
+[2023.06.12_11:42:33] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:42:33] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:42:34] deviceName:PH-1	devid:12
+
+[2023.06.12_11:42:38] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:42:38] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:42:39] deviceName:PH-1	devid:12
+
+[2023.06.12_11:42:43] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:42:43] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1

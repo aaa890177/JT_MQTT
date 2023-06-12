@@ -11,24 +11,24 @@ with open('topo/snsr_type_def.json', 'r') as f:
 
 
 class MQTT_Module:
-    def __init__(self, hostIP, appID='', devEUI='', sub_topic='', pub_topic='', client_id='', client_pw='', port=1883, logfile=''):
+    def __init__(self, hostIP, appID='', devEUI='', sub_topic='', client_id='', client_pw='', port=1883, logfile=''):
         self.hostIP = hostIP
         if sub_topic == '':
             # self.sub_topic = "application/%s/device/%s/rx" % (str(appID), devEUI.lower())
             self.sub_topic = "#"
         else:
             self.sub_topic = sub_topic
-        if pub_topic == '':
-            # self.pub_topic = "application/%s/device/%s/tx" % (str(appID), devEUI.lower())
-            self.pub_topic = "#"
-        else:
-            self.pub_topic = pub_topic
         self.logfile = logfile
         self.client_id = client_id
         self.client_pw = client_pw
         self.grep_key = ["fPort", "data", "frequency", "dr"]
         self.port = port
     
+    # def get_recv():
+        # if self.recv_list != []:
+            # return_list = self.recv_list
+            # self.recv_list.clear()
+            # return return_list
     def subscribe(self, loop_forever=0, timeout=30):
         self.loop_forever = loop_forever
         if self.loop_forever==1:
@@ -60,27 +60,28 @@ class MQTT_Module:
             print('MQTT subscriber: End')
         else:
             # self.check_last_data()
-            client.loop_forever()
+            client.loop_start()
         return self.recv_list
-    
-    def publish(self, data):
-        b64 = codecs.encode(codecs.decode(data, 'hex'), 'base64').decode().rstrip('\n')
-        send = json.dumps(data)
+   
 
+
+    def publish(self, appID, devEUI, data):
+        pub_topic = "application/%s/device/%s/tx" % (str(appID), devEUI.lower())
+        send = json.dumps({"confirmed": False, "fPort": 10, "data": data})
         client = mqtt.Client()
         for i in range(3):
             try:
                 if self.client_id != '':
                     client.username_pw_set(self.client_id, self.client_pw)
-                client.connect(self.hostIP, self.port)
+                client.connect('127.0.0.1', self.port)
             except Exception as e:
                 time.sleep(1)
                 if i ==2 :
                     print('%s, \nFailed to connect to MQTT Broker...' %str(e))
                     return False
 
-        print("Publish to %s " %(self.hostIP,data))
-        client.publish(self.pub_topic, send)
+        print("Publish to %s %s" %("127.0.0.1",data))
+        client.publish(pub_topic, send)
         client.disconnect()
 
 
@@ -123,14 +124,14 @@ class MQTT_Module:
                         value += '\t%s_%s:%s%s'   %(CH_id, sensor_name, dec_data, unit)
                         snsr_id_index += (1+inner_dict['length'])
                     snsr_id_index += 1
-                log_tmp = 'deviceName:%s\tdevid:%s%s'%(deviceName, dev_id, value)
-                log(log_tmp, self.logfile)
+                log_tmp = f'deviceName: {deviceName:15}devid:{dev_id}{value}'
+                self.log(log_tmp, self.logfile)
         except:
             data = msg.payload.decode('utf-8') 
-            log(data, self.logfile)
+            self.log(data, self.logfile)      
 
         if self.loop_forever != 1:
-            self.recv_list.append(data)         
+            self.recv_list.append(log_tmp)         
         
     def dashboard_data(self):
         dashboard_dict = {}
@@ -139,14 +140,15 @@ class MQTT_Module:
         return dashboard_dict
 
 
-def log(log, path):
-    
-    time_mark =  time.strftime( "%Y.%m.%d_%X", time.localtime() )
-    log = '[%s] %s'%(time_mark, log)
-    f = open(path, 'a')
-    print('\n%s'%log)
-    print('\n%s'%log, file= f)
-    f.close()
+    def log(self, log, path):
+        
+        time_mark =  time.strftime( "%Y.%m.%d_%X", time.localtime() )
+        log = '[%s] %s'%(time_mark, log)
+        f = open(path, 'a')
+        print('\n%s'%log)
+        print('\n%s'%log, file= f)
+        self.recv_list.append(log)   
+        f.close()
 
 def twosComplement_hex(hexval):
     bits = 16

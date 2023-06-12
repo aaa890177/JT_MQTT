@@ -1,6 +1,6 @@
 {
 "67": {
-	"name": "T",
+	"name": "Temp",
       "resolution" : 0.1,
       "length": 2,
       "unit": ""
@@ -8,12 +8,12 @@
 
 "C0": {
 	"name": "Conductivity",
-      "resolution" : 0.001,
-      "length": 4,
+      "resolution" : 0.01,
+      "length": 2,
       "unit": ""
       },
 
-"0B": {
+"C1": {
 	"name": "PH",
       "resolution" : 0.01,
       "length": 2,
@@ -33,11 +33,9 @@
       },
 "A2": {
       "name": "SG",
-      "resolution" : 0.001,
+      "resolution" : 0.01,
       "length": 2,
       "unit": ""
       }
-
-
 }
 

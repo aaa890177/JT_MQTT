@@ -1,0 +1,46 @@
+
+[2023.06.12_01:08:50] {"confirmed": false, "fPort": 10, "data": "1"}
+
+[2023.06.12_01:08:50] {"confirmed": false, "fPort": 10, "data": "2"}
+
+[2023.06.12_01:08:51] {"confirmed": false, "fPort": 10, "data": "3"}
+
+[2023.06.12_01:08:51] {"confirmed": false, "fPort": 10, "data": "4"}
+
+[2023.06.12_01:08:52] {"confirmed": false, "fPort": 10, "data": "5"}
+
+[2023.06.12_01:08:53] {"confirmed": false, "fPort": 10, "data": "6"}
+
+[2023.06.12_01:08:53] {"confirmed": false, "fPort": 10, "data": "7"}
+
+[2023.06.12_01:08:54] {"confirmed": false, "fPort": 10, "data": "8"}
+
+[2023.06.12_01:08:54] {"confirmed": false, "fPort": 10, "data": "9"}
+
+[2023.06.12_01:08:55] {"confirmed": false, "fPort": 10, "data": "10"}
+
+[2023.06.12_01:08:55] {"confirmed": false, "fPort": 10, "data": "11"}
+
+[2023.06.12_01:08:56] {"confirmed": false, "fPort": 10, "data": "12"}
+
+[2023.06.12_01:08:56] {"confirmed": false, "fPort": 10, "data": "13"}
+
+[2023.06.12_01:08:56] {"confirmed": false, "fPort": 10, "data": "14"}
+
+[2023.06.12_01:08:57] {"confirmed": false, "fPort": 10, "data": "15"}
+
+[2023.06.12_01:08:58] {"confirmed": false, "fPort": 10, "data": "16"}
+
+[2023.06.12_01:08:58] {"confirmed": false, "fPort": 10, "data": "17"}
+
+[2023.06.12_01:08:59] {"confirmed": false, "fPort": 10, "data": "18"}
+
+[2023.06.12_01:08:59] {"confirmed": false, "fPort": 10, "data": "19"}
+
+[2023.06.12_01:09:00] {"confirmed": false, "fPort": 10, "data": "20"}
+
+[2023.06.12_01:09:00] {"confirmed": false, "fPort": 10, "data": "21"}
+
+[2023.06.12_01:09:01] {"confirmed": false, "fPort": 10, "data": "22"}
+
+[2023.06.12_01:09:02] {"confirmed": false, "fPort": 10, "data": "23"}

@@ -1,0 +1,62 @@
+
+[2023.06.12_11:43:03] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:43:03] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:43:04] deviceName:PH-1	devid:12
+
+[2023.06.12_11:43:08] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:43:08] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:43:09] deviceName:PH-1	devid:12
+
+[2023.06.12_11:43:13] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:43:13] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:43:14] deviceName:PH-1	devid:12
+
+[2023.06.12_11:43:18] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:43:18] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:43:19] deviceName:PH-1	devid:12
+
+[2023.06.12_11:43:23] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:43:23] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:43:24] deviceName:PH-1	devid:12
+
+[2023.06.12_11:43:28] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:43:28] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:43:31] deviceName:Conductivity-1	devid:11	01_Conductivity:7537.26
+
+[2023.06.12_11:43:33] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:43:33] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:43:36] deviceName:Conductivity-1	devid:11	01_Conductivity:7537.26
+
+[2023.06.12_11:43:38] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:43:38] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.8	03_T:21.1
+
+[2023.06.12_11:43:41] deviceName:Conductivity-1	devid:11	01_Conductivity:7537.26
+
+[2023.06.12_11:43:43] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:43:43] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.8	03_T:21.1
+
+[2023.06.12_11:43:46] deviceName:Conductivity-1	devid:11	01_Conductivity:7537.26
+
+[2023.06.12_11:43:48] deviceName:Temperature-1	devid:13
+
+[2023.06.12_11:43:48] deviceName:Temperature-2	devid:23	01_T:21.3	02_T:25.7	03_T:21.1
+
+[2023.06.12_11:43:49] deviceName:PH-1	devid:12
+
+[2023.06.12_11:47:21] deviceName:Temperature-1	devid:13
