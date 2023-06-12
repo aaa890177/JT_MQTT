@@ -27,7 +27,7 @@
       },
 "A1": {
       "name": "HCL",
-      "resolution" : 0.01,
+      "resolution" : 0.1,
       "length": 2,
       "unit": ""
       },
